@@ -1,4 +1,4 @@
-# CarDealership Java Springboot Project
+# VehicleDealership Java Springboot Project
  This project was developed using Java v21 and SpringBoot v3.2. As seen in Attachment1, a more versatile java project was made by using DataTransferObjects, Business Rules. The use of Exceptions, Mappers and Results helped the project to be more comprehensive and more reliable.The Entity-Relationship model in Attachment2 shows the relationship between the entities and their properties.
 
  Attachment1 (Files)
